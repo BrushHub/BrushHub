@@ -2,31 +2,31 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Version-v21-blueviolet?style=for-the-badge" alt="Versão">
-  <img src="https://img.shields.io/badge/Status-Open--Source-green?style=for-the-badge" alt="Status">
+  <img src="https://img.shields.io/badge/Status-Private-red?style=for-the-badge" alt="Status">
   <img src="https://img.shields.io/badge/UI-WindUI-orange?style=for-the-badge" alt="UI Library">
 </p>
 
-O **BoxBush Hub** é um script universal e multifuncional para Roblox, desenvolvido para oferecer a melhor experiência em performance e personalização. Com uma interface moderna baseada na **WindUI**, o hub conta com sistemas de automação, ferramentas administrativas e suporte a diversos jogos populares.
+O **BoxBush Hub** é um script universal premium para Roblox, desenvolvido por **MTS13GAMER**. Focado em performance e estabilidade, o hub centraliza diversas ferramentas de automação e utilitários em uma interface moderna e intuitiva.
 
-## ✨ Funcionalidades Principais
+## ✨ Funcionalidades
 
-- 🚀 **Universal Tools:** Speed, Jump Power, Noclip e Infinite Jump integrados.
-- 🎨 **Temas Customizáveis:** Escolha entre 5 temas exclusivos (*Onyx Black, Crimson Night, Ocean Blue, Emerald, Gold Rush*).
-- 🛠️ **Admin Network:** Sistema de comunicação e controle remoto para desenvolvedores/owners.
-- 🤖 **Auto-Execute:** Detecção automática de jogos compatíveis como *Brookhaven* e *Omini X*.
-- 🔑 **Key System:** Integração segura via PlatoBoost.
-- 📱 **Mobile Friendly:** Interface adaptada para dispositivos móveis com botão flutuante.
+- 🚀 **Performance:** Otimizado para não causar quedas de FPS, mesmo em dispositivos mais modestos.
+- 🎨 **WindUI Design:** Interface minimalista com suporte a múltiplos temas e transparência.
+- 🛠️ **Universal Admin:** Controles de personagem (Speed, Jump, Fly) integrados.
+- 📱 **Compatibilidade:** Suporte total para executores Mobile e PC.
+- 🔑 **Key System:** Acesso gerenciado via sistema de chaves seguro.
 
-## 🎮 Jogos Suportados (Scripts Específicos)
+## 🎮 Jogos Integrados
+O script detecta automaticamente o jogo atual e carrega módulos específicos para:
 *   **Brookhaven** (Box Haven)
-*   **Speed Legends** (Box Speed)
-*   **Omini X** (Auto Raid & Transform)
-*   **99 Noites** (Box Night)
-*   **Emotes Universais** (Box Emote)
+*   **Omini X** (Auto Farm & Raid)
+*   **Speed Legends**
+*   **99 Noites**
+*   ... e outros títulos em constante atualização.
 
-## 🛠️ Como Usar
+## 🛠️ Como Executar
 
-Para executar o script, utilize um executor de sua preferência e insira o código abaixo:
+Para utilizar o Hub, copie o código abaixo e execute em seu software de preferência:
 ```lua
 --[[
 ██████╗ ██████╗ ██╗   ██╗███████╗██╗  ██╗██╗  ██╗██╗   ██╗██████╗ 
