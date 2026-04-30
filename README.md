@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/UI-WindUI-orange?style=for-the-badge" alt="UI Library">
 </p>
 
-O **Brush Hub** é um script universal para Roblox, nosso hub contem diversos scripts para ser utilizados, a Library Usanda e: [WindUI](https://footagesus.github.io/WindUI-Docs/docs)
+O **Brush Hub** é um script universal para Roblox, nosso hub contem diversos scripts para ser utilizados. a Library Que Utilizamos: [WindUI](https://footagesus.github.io/WindUI-Docs/docs)
 
 ## ✨ Funcionalidades
 
