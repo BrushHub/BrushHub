@@ -1,43 +1,40 @@
-🇧🇷 Versão em Português
-🖌️ BrushHub
-Bem-vindo ao BrushHub, o seu hub de scripts otimizados e funcionais para Roblox. Nosso objetivo é fornecer ferramentas de alta qualidade para melhorar sua experiência de jogo.
+# 📦 BoxBush Hub | v21
 
-🚀 Scripts Disponíveis
-Atualmente, nosso hub conta com:
+<p align="center">
+  <img src="https://img.shields.io/badge/Version-v21-blueviolet?style=for-the-badge" alt="Versão">
+  <img src="https://img.shields.io/badge/Status-Open--Source-green?style=for-the-badge" alt="Status">
+  <img src="https://img.shields.io/badge/UI-WindUI-orange?style=for-the-badge" alt="UI Library">
+</p>
 
-Omini X Script: Funcionalidades completas para uma experiência aprimorada.
+O **BoxBush Hub** é um script universal e multifuncional para Roblox, desenvolvido para oferecer a melhor experiência em performance e personalização. Com uma interface moderna baseada na **WindUI**, o hub conta com sistemas de automação, ferramentas administrativas e suporte a diversos jogos populares.
 
-Emote Script: Desbloqueie e use emotes de forma simples.
+## ✨ Funcionalidades Principais
 
-Aimbot Script: Precisão aprimorada para jogos competitivos.
+- 🚀 **Universal Tools:** Speed, Jump Power, Noclip e Infinite Jump integrados.
+- 🎨 **Temas Customizáveis:** Escolha entre 5 temas exclusivos (*Onyx Black, Crimson Night, Ocean Blue, Emerald, Gold Rush*).
+- 🛠️ **Admin Network:** Sistema de comunicação e controle remoto para desenvolvedores/owners.
+- 🤖 **Auto-Execute:** Detecção automática de jogos compatíveis como *Brookhaven* e *Omini X*.
+- 🔑 **Key System:** Integração segura via PlatoBoost.
+- 📱 **Mobile Friendly:** Interface adaptada para dispositivos móveis com botão flutuante.
 
-🛠️ Como Usar
-Para carregar o BrushHub, utilize o executor de sua preferência com o seguinte comando:
+## 🎮 Jogos Suportados (Scripts Específicos)
+*   **Brookhaven** (Box Haven)
+*   **Speed Legends** (Box Speed)
+*   **Omini X** (Auto Raid & Transform)
+*   **99 Noites** (Box Night)
+*   **Emotes Universais** (Box Emote)
 
-Lua
--- O link oficial será inserido aqui assim que você subir o arquivo no GitHub
-loadstring(game:HttpGet("https://raw.githubusercontent.com/SEU_USUARIO/BrushHub/main/main.lua"))()
-🔜 Em Breve
-Estamos trabalhando constantemente em atualizações. Novos scripts e melhorias serão adicionados em breve!
+## 🛠️ Como Usar
 
-🇺🇸 English Version
-🖌️ BrushHub
-Welcome to BrushHub, your go-to hub for optimized and functional Roblox scripts. Our goal is to provide high-quality tools to enhance your gaming experience.
+Para executar o script, utilize um executor de sua preferência e insira o código abaixo:
+```lua
+--[[
+██████╗ ██████╗ ██╗   ██╗███████╗██╗  ██╗██╗  ██╗██╗   ██╗██████╗ 
+██╔══██╗██╔══██╗██║   ██║██╔════╝██║  ██║██║  ██║██║   ██║██╔══██╗
+██████╔╝██████╔╝██║   ██║███████╗███████║███████║██║   ██║██████╔╝
+██╔══██╗██╔══██╗██║   ██║╚════██║██╔══██║██╔══██║██║   ██║██╔══██╗
+██████╔╝██║  ██║╚██████╔╝███████║██║  ██║██║  ██║╚██████╔╝██████╔╝
+╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═════╝
+]]
 
-🚀 Available Scripts
-Currently, our hub features:
-
-Omini X Script: Full features for an enhanced experience.
-
-Emote Script: Easily unlock and use emotes.
-
-Aimbot Script: Improved precision for competitive games.
-
-🛠️ How to Use
-To load BrushHub, use your preferred executor with the following command:
-
-Lua
--- Official link will be placed here once you upload the file to GitHub
-loadstring(game:HttpGet("https://raw.githubusercontent.com/YOUR_USERNAME/BrushHub/main/main.lua"))()
-🔜 Coming Soon
-We are constantly working on updates. New scripts and improvements will be added soon!
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BrushHub/BrushHub/refs/heads/main/BrushHub.lua"))()
