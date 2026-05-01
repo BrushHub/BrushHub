@@ -37,12 +37,14 @@ O script detecta automaticamente o jogo atual e carrega o script específicos pa
 Para utilizar o Hub, copie o código abaixo e execute em seu executor:
 ```lua
 --[[
+
 ██████╗ ██████╗ ██╗   ██╗███████╗██╗  ██╗██╗  ██╗██╗   ██╗██████╗ 
 ██╔══██╗██╔══██╗██║   ██║██╔════╝██║  ██║██║  ██║██║   ██║██╔══██╗
 ██████╔╝██████╔╝██║   ██║███████╗███████║███████║██║   ██║██████╔╝
 ██╔══██╗██╔══██╗██║   ██║╚════██║██╔══██║██╔══██║██║   ██║██╔══██╗
 ██████╔╝██║  ██║╚██████╔╝███████║██║  ██║██║  ██║╚██████╔╝██████╔╝
 ╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═════╝
+
 ]]
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/BrushHub/BrushHub/refs/heads/main/BrushHub.lua"))()
