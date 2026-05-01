@@ -1,4 +1,4 @@
-# Bruh Hub 
+# Brush Hub 
 
 <p align="center">
   <img src="https://img.shields.io/badge/Version-v21-blueviolet?style=for-the-badge" alt="Versão">
@@ -14,7 +14,7 @@ O **Brush Hub** é um script universal para Roblox, nosso hub contem diversos sc
 - 🎨 **WindUI Library:** Interface minimalista com suporte a múltiplos temas e transparência.
 - 🛠️ **Universal:** Speed, Jump, Infinite Jump,ETC.
 - 📱 **Compatibilidade:** Suporte total para executores Mobile e PC.
-- 🔑 **Key System:** Acesso gerenciado via sistema de Key.
+- 🔑 **Key System:** Acesso Completo Ao Script Apos Pegar A Key.
 
 ## Status:
 *   🟢 Updated 
