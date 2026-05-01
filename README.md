@@ -47,4 +47,4 @@ Para utilizar o Hub, copie o código abaixo e execute em seu executor:
 
 ]]
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/BrushHub/BrushHub/refs/heads/main/BrushHub.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BrushHub/BrushHub/refs/heads/main/Scripts/BrushHub.lua"))()
