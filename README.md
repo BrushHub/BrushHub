@@ -31,6 +31,7 @@ O script detecta automaticamente o jogo atual e carrega o script específicos pa
 *   **Speed Legends** 🟢
 *   **99 Noites** 🔴
 *   **Brush Aimbot** 🟢
+*   **FE Emote** 🟢
 
 ## Como Usar?
 
