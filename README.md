@@ -30,7 +30,7 @@ O script detecta automaticamente o jogo atual e carrega o script específicos pa
 *   **Omini X** 🟠
 *   **Speed Legends** 🟢
 *   **99 Noites** 🔴
-*   **Aimbot** 🟣
+*   **Brush Aimbot** 🟣
 
 ## Como Usar?
 
