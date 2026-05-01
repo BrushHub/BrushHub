@@ -1,7 +1,7 @@
 # Brush Hub 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Version-v21-blueviolet?style=for-the-badge" alt="Versão">
+  <img src="https://img.shields.io/badge/Version-v22-blueviolet?style=for-the-badge" alt="Versão">
   <img src="https://img.shields.io/badge/Status-Updated-green?style=for-the-badge" alt="Status">
   <img src="https://img.shields.io/badge/UI-WindUI-orange?style=for-the-badge" alt="UI Library">
 </p>
