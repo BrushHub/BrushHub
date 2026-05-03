@@ -25,7 +25,6 @@ O **Brush Hub** é um script universal para Roblox, nosso hub contem diversos sc
 *   ⚫ Coming Soon 
 
 ## Scripts:
-O script detecta automaticamente o jogo atual e carrega o script específicos para:
 *   **Brookhaven** ⚫
 *   **Omini X** 🟡
 *   **Speed Legends** 🟢
