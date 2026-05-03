@@ -8,7 +8,7 @@
 
 O **Brush Hub** é um script universal para Roblox, nosso hub contem diversos scripts para ser utilizados. a Library Que Utilizamos: [WindUI](https://footagesus.github.io/WindUI-Docs/docs)
 
-## ✨ Funcionalidades
+## 
 
 - 🚀 **Performance:** Otimizado para não causar quedas de FPS, mesmo em dispositivos mais modestos.
 - 🎨 **WindUI Library:** Interface minimalista com suporte a múltiplos temas e transparência.
