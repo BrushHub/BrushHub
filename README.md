@@ -18,6 +18,7 @@ O **Brush Hub** é um script universal para Roblox, nosso hub contem diversos sc
 
 ## Status:
 *   🟢 Updated 
+*   🔵 Updated, but with bugs.
 *   🟠 Updating 
 *   🟣 Updating To Fix Bugs
 *   🟡 Update Coming Soon
@@ -26,7 +27,7 @@ O **Brush Hub** é um script universal para Roblox, nosso hub contem diversos sc
 
 ## Scripts:
 *   **Brookhaven** ⚫
-*   **Omini X** 🟣
+*   **Omini X** 🔵
 *   **Speed Legends** 🟢
 *   **99 Noites** 🔴
 *   **Brush Aimbot** 🟢
