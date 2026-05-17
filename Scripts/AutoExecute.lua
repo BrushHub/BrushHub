@@ -1,1 +1,1 @@
-
+print("AUTO EXECUTE ON")
