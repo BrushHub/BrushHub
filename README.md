@@ -27,6 +27,7 @@ O **Brush Hub** é um script universal para Roblox, nosso hub contem diversos sc
 
 ## Scripts:
 *   **Brookhaven** ⚫
+*   **Build A Boat** 🟢
 *   **Omini X** 🔴
 *   **Speed Legends** 🟢
 *   **99 Noites** 🔴
