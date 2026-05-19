@@ -22,8 +22,8 @@ O **Brush Hub** é um script universal para Roblox, nosso hub contem diversos sc
 *   🟠 Updating 
 *   🟣 Updating To Fix Bugs
 *   🟡 Update Coming Soon
-*   🔴 Outdated
 *   🟤 Working, but outdated
+*   🔴 Outdated
 *   ⚫ Coming Soon 
 
 ## Scripts:
