@@ -18,17 +18,18 @@ O **Brush Hub** é um script universal para Roblox, nosso hub contem diversos sc
 
 ## Status:
 *   🟢 Updated 
-*   🔵 Updated, but with bugs.
+*   🔵 Updated, but with bugs
 *   🟠 Updating 
 *   🟣 Updating To Fix Bugs
 *   🟡 Update Coming Soon
-*   🔴 Outdated 
+*   🔴 Outdated
+*   🟤 Working, but outdated
 *   ⚫ Coming Soon 
 
 ## Scripts:
 *   **Brookhaven** ⚫
 *   **Build A Boat For Treasure** 🟢
-*   **Omini X Definitive** 🔴
+*   **Omini X Definitive** 🟤
 *   **Speed Legends** 🟢
 *   **99 Noites** 🔴
 *   **Brush Aimbot** 🟢
