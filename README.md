@@ -31,7 +31,7 @@ O **Brush Hub** é um script universal para Roblox, nosso hub contem diversos sc
 *   **Build A Boat For Treasure** 🟢
 *   **Omini X Definitive** 🟤
 *   **Speed Legends** 🟢
-*   **99 Noites** 🔴
+*   **99 Night** 🟤
 *   **Brush Aimbot** 🟢
 *   **FE Emote** 🟢
 
