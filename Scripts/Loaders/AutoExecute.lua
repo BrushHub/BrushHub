@@ -1,11 +1,8 @@
-local HttpGet = game.HttpGet
-local GameId: number = game.GameId
+local Games = loadstring(
+	game:HttpGet("https://raw.githubusercontent.com/BrushHub/BrushHub/refs/heads/main/Scripts/Loaders/GameList.lua")
+)()
 
-local Games: {[number]: string} = loadstring(
-  HttpGet(game, "https://raw.githubusercontent.com/BrushHub/BrushHub/refs/heads/main/Scripts/Loaders/GameList.lua")
-)() :: any
+local URL = Games[game.GameId]
+if not URL or URL == "0" then return end
 
-local URL: string? = Games[GameId]
-if not URL then return end
-
-loadstring(HttpGet(game, URL))()
+loadstring(game:HttpGet(URL))()
