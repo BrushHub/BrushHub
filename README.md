@@ -12,9 +12,8 @@ O **Brush Hub** é um script universal para Roblox, nosso hub contem diversos sc
 
 - 🚀 **Performance:** Otimizado para não causar quedas de FPS, mesmo em dispositivos mais modestos.
 - 🎨 **WindUI Library:** Interface minimalista com suporte a múltiplos temas e transparência.
-- 🛠️ **Universal:** Speed, Jump, Infinite Jump,ETC.
 - 📱 **Compatibilidade:** Suporte total para executores Mobile e PC.
-- 🔑 **Key System:** Acesso Completo Ao Script Apos Pegar A Key.
+- 🔑 **Key System:** Acesso Completo Ao Script Apos Pegar A Key (24h).
 
 ## Status:
 *   🟢 Updated 
@@ -27,13 +26,14 @@ O **Brush Hub** é um script universal para Roblox, nosso hub contem diversos sc
 *   ⚫ Coming Soon 
 
 ## Scripts:
-*   **Brookhaven** ⚫
 *   **Build A Boat For Treasure** 🟢
-*   **Omini X Definitive** 🟤
 *   **Speed Legends** 🟢
-*   **99 Night** 🟤
-*   **Brush Aimbot** 🟢
+*   **Brush Aimbot** 🟠
 *   **FE Emote** 🟢
+*   **Brookhaven** ⚫
+*   **Murder Mystery 2** ⚫
+*   **Omini X Definitive** 🟤
+*   **99 Night** 🟤
 
 ## Como Usar?
 
