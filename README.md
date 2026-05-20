@@ -28,7 +28,7 @@ O **Brush Hub** é um script universal para Roblox, nosso hub contem diversos sc
 ## Scripts:
 *   **Build A Boat For Treasure** 🟢
 *   **Speed Legends** 🟢
-*   **Brush Aimbot** 🟠
+*   **Brush Aimbot** 🟢
 *   **FE Emote** 🟢
 *   **Brookhaven** ⚫
 *   **Murder Mystery 2** ⚫
@@ -38,6 +38,20 @@ O **Brush Hub** é um script universal para Roblox, nosso hub contem diversos sc
 ## Como Usar?
 
 Para utilizar o Hub, copie o código abaixo e execute em seu executor:
+```lua
+--[[
+
+██████╗ ██████╗ ██╗   ██╗███████╗██╗  ██╗  ██╗  ██╗██╗   ██╗██████╗ 
+██╔══██╗██╔══██╗██║   ██║██╔════╝██║  ██║  ██║  ██║██║   ██║██╔══██╗
+██████╔╝██████╔╝██║   ██║███████╗███████║  ███████║██║   ██║██████╔╝
+██╔══██╗██╔══██╗██║   ██║╚════██║██╔══██║  ██╔══██║██║   ██║██╔══██╗
+██████╔╝██║  ██║╚██████╔╝███████║██║  ██║  ██║  ██║╚██████╔╝██████╔╝
+╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝  ╚═╝  ╚═╝ ╚═════╝ ╚═════╝
+
+]]
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BrushHub/BrushHub/refs/heads/main/Scripts/Brush%20Hub.lua"))()```
+
 ```lua
 --[[
 
