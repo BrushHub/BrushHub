@@ -58,7 +58,7 @@ To use the hub, copy the script below and execute it in your executor.
 loadstring(game:HttpGet("https://raw.githubusercontent.com/BrushHub/BrushHub/refs/heads/main/Scripts/Brush%20Hub.lua"))()
 ```
 
-## Universal Scripts (No Key)
+## Universal Scripts (Easy Key)
 
 ### Brush Aimbot ( 🟢 )
 * Universal aiming script compatible with supported Roblox games.
