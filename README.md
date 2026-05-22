@@ -35,8 +35,7 @@ Scripts may use different UI libraries depending on the project, including:
 *   **Build A Boat For Treasure** 🟢
 *   **Speed Legends** 🟢
 *   **Brush Aimbot** 🟢
-*   **FE Emote** 🟢
-*   **Brookhaven** ⚫
+*   **Brookhaven** ⚪
 *   **Murder Mystery** 🔵
 *   **Omini X Definitive** 🟤
 *   **99 Night** 🟤
@@ -62,8 +61,8 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/BrushHub/BrushHub/ref
 
 ## Universal Scripts (No Key)
 
-### Brush Aimbot 🟢
-Universal aiming script compatible with supported Roblox games.
+### Brush Aimbot ( 🟢 )
+* Universal aiming script compatible with supported Roblox games.
 
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/BrushHub/BrushHub/refs/heads/main/Scripts/Brush%20Aimbot.lua"))()
