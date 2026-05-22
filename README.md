@@ -23,7 +23,8 @@ O **Brush Hub** é um script universal para Roblox, nosso hub contem diversos sc
 * 🟡 **Update Coming Soon**
 * 🟤 **Working, but Outdated**
 * 🔴 **Outdated**
-* ⚫ **In Development**
+* ⚪ **In Development**
+* ⚫ **Discontinued**
 
 ## Scripts:
 *   **Build A Boat For Treasure** 🟢
