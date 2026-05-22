@@ -6,14 +6,19 @@
   <img src="https://img.shields.io/badge/UI-WindUI-orange?style=for-the-badge" alt="UI Library">
 </p>
 
-O **Brush Hub** é um script universal para Roblox, nosso hub contem diversos scripts para ser utilizados. a Library Que Utilizamos: [WindUI](https://footagesus.github.io/WindUI-Docs/docs)
+O **Brush Hub** is a Roblox hub featuring multiple high-quality scripts for various games.
+
+Scripts may use different UI libraries depending on the project, including:
+- [WindUI](https://footagesus.github.io/WindUI-Docs/docs)
+- [Rayfield](https://docs.sirius.menu/rayfield/windows)
+- [Redz UI](https://github.com/tlredz/Library/tree/main/redz-V5-remake)
 
 ## 
 
-- 🚀 **Performance:** Otimizado para não causar quedas de FPS, mesmo em dispositivos mais modestos.
-- 🎨 **WindUI Library:** Interface minimalista com suporte a múltiplos temas e transparência.
-- 📱 **Compatibilidade:** Suporte total para executores Mobile e PC.
-- 🔑 **Key System:** Acesso Completo Ao Script Apos Pegar A Key (24h).
+- 🚀 **Performance:** Optimized to prevent FPS drops, even on low-end devices.
+- 🎨 **WindUI Library:** Minimalist interface with support for multiple themes and transparency.
+- 📱 **Compatibility:** Full support for both mobile and PC executors.
+- 🔑 **Key System:** Get full access for 24 hours after completing the key system.
 
 ## Status:
 * 🟢 **Fully Updated**
@@ -23,10 +28,10 @@ O **Brush Hub** é um script universal para Roblox, nosso hub contem diversos sc
 * 🟡 **Update Coming Soon**
 * 🟤 **Working, but Outdated**
 * 🔴 **Outdated**
-* ⚪ **In Development**
+* ⚪ **Under Development**
 * ⚫ **Discontinued**
 
-## Scripts:
+## Supported Games:
 *   **Build A Boat For Treasure** 🟢
 *   **Speed Legends** 🟢
 *   **Brush Aimbot** 🟢
