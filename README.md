@@ -36,9 +36,9 @@ Scripts may use different UI libraries depending on the project, including:
 *   **Speed Legends** 🟢
 *   **Brush Aimbot** 🟢
 *   **Brookhaven** ⚪
-*   **Murder Mystery** 🔵
 *   **Omini X Definitive** 🟤
-*   **99 Night** 🟤
+*   **Murder Mystery** 🔵
+*   **99 Night** ⚫
 
 ## How To Use?
 
