@@ -41,9 +41,10 @@ Scripts may use different UI libraries depending on the project, including:
 *   **Omini X Definitive** 🟤
 *   **99 Night** 🟤
 
-## Como Usar?
+## How To Use?
 
-Para utilizar o Hub, copie o código abaixo e execute em seu executor:
+To use the hub, copy the script below and execute it in your executor.
+
 ```lua
 --[[
 
@@ -57,3 +58,13 @@ Para utilizar o Hub, copie o código abaixo e execute em seu executor:
 ]]
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/BrushHub/BrushHub/refs/heads/main/Scripts/Brush%20Hub.lua"))()
+```
+
+## Universal Scripts *NoKey
+
+### Brush Aimbot
+Universal aiming script compatible with supported Roblox games.
+
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BrushHub/BrushHub/refs/heads/main/Scripts/Brush%20Aimbot.lua"))()
+```
