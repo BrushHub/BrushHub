@@ -34,7 +34,6 @@ Scripts may use different UI libraries depending on the project, including:
 ## Supported Games:
 *   **Build A Boat For Treasure** 🟢
 *   **Speed Legends** 🟢
-*   **Brush Aimbot** 🟢
 *   **Brookhaven** ⚪
 *   **Omini X Definitive** 🟤
 *   **Murder Mystery** 🔵
