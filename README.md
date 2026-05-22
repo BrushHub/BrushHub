@@ -31,7 +31,7 @@ O **Brush Hub** é um script universal para Roblox, nosso hub contem diversos sc
 *   **Brush Aimbot** 🟢
 *   **FE Emote** 🟢
 *   **Brookhaven** ⚫
-*   **Slime RNG** ⚫
+*   **Murder Mystery** ⚫
 *   **Omini X Definitive** 🟤
 *   **99 Night** 🟤
 
