@@ -16,14 +16,14 @@ O **Brush Hub** é um script universal para Roblox, nosso hub contem diversos sc
 - 🔑 **Key System:** Acesso Completo Ao Script Apos Pegar A Key (24h).
 
 ## Status:
-*   🟢 Updated 
-*   🔵 Updated, but with bugs
-*   🟠 Updating 
-*   🟣 Updating To Fix Bugs
-*   🟡 Update Coming Soon
-*   🟤 Working, but outdated
-*   🔴 Outdated
-*   ⚫ Coming Soon 
+* 🟢 **Fully Updated**
+* 🔵 **Updated, but has bugs**
+* 🟠 **Updating**
+* 🟣 **Updating to Fix Bugs**
+* 🟡 **Update Coming Soon**
+* 🟤 **Working, but Outdated**
+* 🔴 **Outdated**
+* ⚫ **In Development**
 
 ## Scripts:
 *   **Build A Boat For Treasure** 🟢
