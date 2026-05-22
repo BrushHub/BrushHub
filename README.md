@@ -10,7 +10,7 @@ O **Brush Hub** is a Roblox hub featuring multiple high-quality scripts for vari
 
 Scripts may use different UI libraries depending on the project, including:
 - [WindUI](https://footagesus.github.io/WindUI-Docs/docs)
-- [Rayfield](https://docs.sirius.menu/rayfield/windows)
+- [Rayfield](https://docs.sirius.menu/rayfield)
 - [Redz UI](https://github.com/tlredz/Library/tree/main/redz-V5-remake)
 
 ## 
