@@ -1,26 +1,18 @@
 # 🏠 redz-library-v5 · Brookhaven Edition
 
-> UI Library para Roblox com tema **Brookhaven** — roxo suburban, lilás e estilo da cidade mais famosa do Roblox.
-
 ---
 
-## 📦 Instalação
+## Loader
 
 Cole no seu script executor:
 
 ```lua
-local Library = loadstring(game:HttpGet("URL_DO_SEU_SCRIPT"))()
-```
-
-Ou carregue o arquivo local:
-
-```lua
-local Library = loadstring(readfile("ui_brookhaven.lua"))()
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/BrushHub/BrushHub/refs/heads/main/Librarys%20Modded/RedzModded/RedzBrookHaven.luau"))()
 ```
 
 ---
 
-## 🚀 Uso básico
+## Using
 
 ```lua
 local Library = -- (carregue a library aqui)
@@ -39,7 +31,7 @@ local Tab = Window:MakeTab({
 
 ---
 
-## 🎨 Temas disponíveis
+## Temas
 
 | Tema | Descrição |
 |------|-----------|
