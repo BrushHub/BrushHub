@@ -348,4 +348,4 @@ Remove todos os elementos e desconecta todas as conexões.
 | Versão | `v2.0.1` |
 | Tema padrão | `Brookhaven` |
 | Autor original | `tlredz` |
-| Tema Brookhaven | Adicionado como extensão |
+| Tema Brookhaven | Adicionado Para Brush Haven (⚪), RedzModded By IA (Claude) |
